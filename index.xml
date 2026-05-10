@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Lost in Logs</title>
+      <link>https:///brain/</link>
+      <description>Last 10 notes on Lost in Logs</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Complessità Computazionale</title>
+    <link>https:///brain/complessita-computazionale</link>
+    <guid>https:///brain/complessita-computazionale</guid>
+    <description><![CDATA[ Misurare l’efficienza di un algoritmo Fondamenti teorici modello-ram Notazione Big-O O(1) — costante O(log n) — logaritmica O(n) — lineare O(n log n) — linearitmica O(n²) — quadratica O(2ⁿ) — esponenziale come calcolare il Big-O di un algoritmo Complessità temporale caso migliore, medio, peggiore an... ]]></description>
+    <pubDate>Sun, 10 May 2026 10:23:12 GMT</pubDate>
+  </item><item>
+    <title>insertion sort — O(n²) — efficiente su array piccoli</title>
+    <link>https:///brain/insertion-sort</link>
+    <guid>https:///brain/insertion-sort</guid>
+    <description><![CDATA[ Esempio Implementazione function insertion(arr) { for (j = 1; j &lt;= (arr.length - 1); j++) { let temp = arr[j] let i = j while (i &gt;= 1 &amp;&amp; temp &lt; arr[i - 1]) { arr[i] = arr[i - 1] i-- } arr[i] = temp } return arr } const unord_arr = [4,2,6,1] console.log(insertion(unord_arr)) Spiegazi... ]]></description>
+    <pubDate>Sun, 10 May 2026 10:23:12 GMT</pubDate>
+  </item><item>
+    <title>Modello RAM</title>
+    <link>https:///brain/modello-ram</link>
+    <guid>https:///brain/modello-ram</guid>
+    <description><![CDATA[ Il Modello RAM (Random Access Machine) è un modello di calcolo astratto utilizzato nell’informatica teorica per analizzare la complessità computazionale degli algoritmi. ]]></description>
+    <pubDate>Sun, 10 May 2026 10:23:12 GMT</pubDate>
+  </item><item>
+    <title>Il Toolkit della Programmazione</title>
+    <link>https:///brain/programmazione-toolkit</link>
+    <guid>https:///brain/programmazione-toolkit</guid>
+    <description><![CDATA[ Per diventare un buon programmatore fullstack servono competenze diverse — dai concetti fondamentali alla gestione dei dati, dalla comunicazione tra sistemi agli strumenti di sviluppo quotidiani. ]]></description>
+    <pubDate>Sun, 10 May 2026 10:23:12 GMT</pubDate>
+  </item><item>
+    <title>Algoritmi</title>
+    <link>https:///brain/algoritmi</link>
+    <guid>https:///brain/algoritmi</guid>
+    <description><![CDATA[ Procedure sistematiche per risolvere problemi Sorting bubble sort — O(n²) — didattico insertion sort merge sort — O(n log n) — stabile, divide et impera quick sort — O(n log n) medio — in-place quando usare quale Searching linear search — O(n), binary search — O(log n) — richiede array ordinato, ric... ]]></description>
+    <pubDate>Sat, 02 May 2026 16:13:18 GMT</pubDate>
+  </item><item>
+    <title>AI SDK</title>
+    <link>https:///brain/ai-sdk</link>
+    <guid>https:///brain/ai-sdk</guid>
+    <description><![CDATA[ Librerie e framework per integrare gli LLM nelle applicazioni Vercel AI SDK cos’è — libreria TypeScript per AI nelle web app provider unificato — stessa API per OpenAI, Anthropic, Google useChat — hook React per chat con streaming useCompletion — hook per completamenti semplici streamText — streamin... ]]></description>
+    <pubDate>Thu, 02 Apr 2026 13:17:44 GMT</pubDate>
+  </item><item>
+    <title>AI UX</title>
+    <link>https:///brain/ai-ux</link>
+    <guid>https:///brain/ai-ux</guid>
+    <description><![CDATA[ Progettare esperienze utente per applicazioni che usano l’AI Sfide specifiche dell’AI UX latenza — i modelli sono lenti rispetto alle API tradizionali non-determinismo — la stessa input può dare output diversi errori opachi — il modello può sbagliare in modo non ovvio aspettative degli utenti — spes... ]]></description>
+    <pubDate>Thu, 02 Apr 2026 13:17:44 GMT</pubDate>
+  </item><item>
+    <title>API Design</title>
+    <link>https:///brain/api-design</link>
+    <guid>https:///brain/api-design</guid>
+    <description><![CDATA[ Principi per costruire API chiare, consistenti e manutenibili Principi fondamentali API come contratto tra client e server, consistency — stesse convenzioni ovunque, least surprise — il comportamento deve essere prevedibile, backward compatibility — non rompere chi ti usa già, API-first design — pro... ]]></description>
+    <pubDate>Thu, 02 Apr 2026 13:17:44 GMT</pubDate>
+  </item><item>
+    <title>Autenticazione e Autorizzazione</title>
+    <link>https:///brain/autenticazione-e-autorizzazione</link>
+    <guid>https:///brain/autenticazione-e-autorizzazione</guid>
+    <description><![CDATA[ Verificare l’identità e controllare i permessi Autenticazione vs Autorizzazione autenticazione — chi sei? verifica dell’identità autorizzazione — cosa puoi fare? verifica dei permessi l’ordine conta — prima autentichi, poi autorizzi errori comuni: confondere 401 (non autenticato) con 403 (non autori... ]]></description>
+    <pubDate>Thu, 02 Apr 2026 13:17:44 GMT</pubDate>
+  </item><item>
+    <title>Autenticazione Web</title>
+    <link>https:///brain/autenticazione</link>
+    <guid>https:///brain/autenticazione</guid>
+    <description><![CDATA[ Verificare l’identità di chi fa una richiesta Autenticazione vs Autorizzazione autenticazione — chi sei? autorizzazione — cosa puoi fare? prima autentichi, poi autorizzi Session-Based Authentication login → server crea una sessione → salva in DB o memoria session ID inviato al client come cookie ogn... ]]></description>
+    <pubDate>Thu, 02 Apr 2026 13:17:44 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
