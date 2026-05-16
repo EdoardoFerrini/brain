@@ -6,12 +6,6 @@
       <description>Last 10 notes on Lost in Logs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Modello RAM</title>
-    <link>https:///brain/modello-ram</link>
-    <guid>https:///brain/modello-ram</guid>
-    <description><![CDATA[ Il modello RAM Per analizzare un algoritmo serve un modello di computer chiamato RAM (Random Access Machine) su cui immaginare che giri. ]]></description>
-    <pubDate>Sat, 16 May 2026 11:54:36 GMT</pubDate>
-  </item><item>
     <title>Complessità Computazionale</title>
     <link>https:///brain/complessita-computazionale</link>
     <guid>https:///brain/complessita-computazionale</guid>
@@ -22,6 +16,12 @@
     <link>https:///brain/insertion-sort</link>
     <guid>https:///brain/insertion-sort</guid>
     <description><![CDATA[ Esempio Implementazione function insertion(arr) { for (j = 1; j &lt;= (arr.length - 1); j++) { let temp = arr[j] let i = j while (i &gt;= 1 &amp;&amp; temp &lt; arr[i - 1]) { arr[i] = arr[i - 1] i-- } arr[i] = temp } return arr } const unord_arr = [4,2,6,1] console.log(insertion(unord_arr)) Spiegazi... ]]></description>
+    <pubDate>Sun, 10 May 2026 10:23:12 GMT</pubDate>
+  </item><item>
+    <title>Modello RAM</title>
+    <link>https:///brain/modello-ram</link>
+    <guid>https:///brain/modello-ram</guid>
+    <description><![CDATA[ Il Modello RAM (Random Access Machine) è un modello di calcolo astratto utilizzato nell’informatica teorica per analizzare la complessità computazionale degli algoritmi. ]]></description>
     <pubDate>Sun, 10 May 2026 10:23:12 GMT</pubDate>
   </item><item>
     <title>Il Toolkit della Programmazione</title>
