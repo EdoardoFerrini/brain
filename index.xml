@@ -6,6 +6,12 @@
       <description>Last 10 notes on Lost in Logs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Il Toolkit della Programmazione</title>
+    <link>https:///brain/programmazione-toolkit</link>
+    <guid>https:///brain/programmazione-toolkit</guid>
+    <description><![CDATA[  Il Toolkit della Programmazione Per diventare un buon programmatore fullstack servono competenze diverse — dai concetti fondamentali alla gestione dei dati, dalla comunicazione tra sistemi agli strumenti di sviluppo quotidiani. ]]></description>
+    <pubDate>Tue, 26 May 2026 18:44:00 GMT</pubDate>
+  </item><item>
     <title>Complessità Computazionale</title>
     <link>https:///brain/complessita-computazionale</link>
     <guid>https:///brain/complessita-computazionale</guid>
@@ -22,12 +28,6 @@
     <link>https:///brain/modello-ram</link>
     <guid>https:///brain/modello-ram</guid>
     <description><![CDATA[ Il Modello RAM (Random Access Machine) è un modello di calcolo astratto utilizzato nell’informatica teorica per analizzare la complessità computazionale degli algoritmi. ]]></description>
-    <pubDate>Sun, 10 May 2026 10:23:12 GMT</pubDate>
-  </item><item>
-    <title>Il Toolkit della Programmazione</title>
-    <link>https:///brain/programmazione-toolkit</link>
-    <guid>https:///brain/programmazione-toolkit</guid>
-    <description><![CDATA[ Per diventare un buon programmatore fullstack servono competenze diverse — dai concetti fondamentali alla gestione dei dati, dalla comunicazione tra sistemi agli strumenti di sviluppo quotidiani. ]]></description>
     <pubDate>Sun, 10 May 2026 10:23:12 GMT</pubDate>
   </item><item>
     <title>Algoritmi</title>
